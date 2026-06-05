@@ -19,4 +19,3 @@ See [#267](https://github.com/butzist/ActivityLauncher/issues/267).
 
 ## Translations
 
-Translations can be updated via Pull Requests on GitHub. Feel free to contribute by submitting PRs to improve or add translations.
